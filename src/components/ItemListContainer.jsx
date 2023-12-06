@@ -1,6 +1,6 @@
 const ItemListContainer = ({saludo}) => {
     return (
-        <div>
+        <div className="itemlistcontainer">
             <p>{saludo}</p>
         </div>
     )
